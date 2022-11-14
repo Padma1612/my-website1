@@ -2,6 +2,4 @@
 
 This is really good
 
-now editing on update-readme branch
-
-updated locally
+update with the rebase concept
